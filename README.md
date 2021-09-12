@@ -7,6 +7,6 @@ Spring (Spring Boot, Spring Cloud Streams).
 
 Este projeto foi desenvolvido no Bootcamp da Digital Innovation Onne
 
-Perfil na plataforma DIO: https://web.digitalinnovation.one/users/emerson_costa2785?tab=achievements
-Likendim: https://www.linkedin.com/in/emerson-costa-199995169/
+* Perfil na plataforma DIO: https://web.digitalinnovation.one/users/emerson_costa2785?tab=achievements
+* Likendim: https://www.linkedin.com/in/emerson-costa-199995169/
 
